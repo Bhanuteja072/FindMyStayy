@@ -93,5 +93,5 @@ This project is licensed under the MIT License.
 
 ---
 
-🔗 **Connect with Me:** [Your LinkedIn or GitHub Profile]
+🔗 **Connect with Me:** https://github.com/Bhanuteja072
 
